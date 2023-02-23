@@ -8,11 +8,6 @@ body * {
     display:flex;
 }
 
-img {
-    height: 150px;
-    width: auto;
-}
-
 button {
     background-color: #3882f6;
     margin: 10px 0;
